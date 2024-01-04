@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229660231069",
+    "project_id": "konga-clone-66cc0",
+    "storage_bucket": "konga-clone-66cc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229660231069:android:aeaecae08ba62a6c445b74",
+        "android_client_info": {
+          "package_name": "com.example.kongaclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqZ1B2ZfKX16GwQZP6M8tbPBM38sfO2ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
